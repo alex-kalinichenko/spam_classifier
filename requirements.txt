@@ -1,0 +1,9 @@
+dill
+Flask-WTF==0.14.3
+Flask==1.1.2
+numpy
+pandas
+requests
+scikit-learn
+urllib3
+WTForms
