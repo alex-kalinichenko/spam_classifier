@@ -33,10 +33,6 @@ $ docker run -d -p 8180:8180 -p 8181:8181 -v spam_classifier_pipline.dill:/app/a
 Переходим в браузер по ссылке: http://localhost:8181/
 
 ### Дополнительные материалы
-
-https://github.com/alex-kalinichenko/gb/blob/master/ml_in_business/final_project.ipynb
-https://github.com/alex-kalinichenko/gb/blob/master/ml_in_business/final_project2.ipynb
-https://github.com/alex-kalinichenko/gb/blob/master/ml_in_business/final_project3.ipynb
-
-
-
+- https://github.com/alex-kalinichenko/gb/blob/master/ml_in_business/final_project.ipynb
+- https://github.com/alex-kalinichenko/gb/blob/master/ml_in_business/final_project2.ipynb
+- https://github.com/alex-kalinichenko/gb/blob/master/ml_in_business/final_project3.ipynb
